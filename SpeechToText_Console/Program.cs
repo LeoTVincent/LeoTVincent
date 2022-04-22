@@ -8,7 +8,7 @@ namespace SpeechToText_Console
 {
     class Program
     {
-        static string YourSubscriptionKey = "dc53284da3e24aab8925d81c3e4c414f";
+        static string YourSubscriptionKey = "";
         static string YourServiceRegion = "westus2";
 
         static void OutputSpeechRecognitionResult(SpeechRecognitionResult speechRecognitionResult)
